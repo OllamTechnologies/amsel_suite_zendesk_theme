@@ -4,14 +4,6 @@ This repository contains a custom Zendesk Guide theme based on the **Copenhagen*
 
 ## Installation
 
-To use this theme in your Zendesk Guide:
-
-Download the repository or clone it:
-
-```bash
-git clone https://github.com/your-username/custom-copenhagen-zendesk-theme.git
-```
-
-Or use Zendesk's `Import from github` feature :
+To use this theme in your Zendesk Guide, use Zendesk's `Import from github` feature :
 
 ![alt text](.readme-images/image.png)

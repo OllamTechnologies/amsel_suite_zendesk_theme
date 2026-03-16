@@ -132,6 +132,10 @@
             {
               "label": "Trebuchet MS",
               "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif"
+            },
+            {
+              "label": "Montserrat",
+              "value": "'Montserrat', sans-serif"
             }
           ]
         },
