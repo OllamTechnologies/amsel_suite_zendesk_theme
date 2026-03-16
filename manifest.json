@@ -1,7 +1,7 @@
 {
   "name": "Amsel Suite Zendesk Theme",
   "author": "Tekker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "api_version": 4,
   "default_locale": "en-us",
   "settings": [
@@ -209,6 +209,10 @@
             {
               "label": "Trebuchet MS",
               "value": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif"
+            },
+            {
+              "label": "Montserrat",
+              "value": "'Montserrat', sans-serif"
             }
           ]
         }
