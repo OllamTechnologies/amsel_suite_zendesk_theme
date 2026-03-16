@@ -1240,6 +1240,10 @@ ul {
   display: inline-block;
 }
 
+.powered-by-zendesk {
+  display: none !important;
+}
+
 .powered-by-zendesk a,
 .powered-by-zendesk a:visited {
   color: lighten($text_color, 20%);
