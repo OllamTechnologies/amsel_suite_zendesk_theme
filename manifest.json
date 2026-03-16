@@ -1,7 +1,7 @@
 {
   "name": "Amsel Suite Zendesk Theme",
   "author": "Tekker",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "api_version": 4,
   "default_locale": "en-us",
   "settings": [
@@ -67,7 +67,7 @@
           "type": "list",
           "description": "heading_font_description",
           "label": "heading_font_label",
-          "value": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif",
+          "value": "'Montserrat', sans-serif",
           "options": [
             {
               "label": "System",
@@ -144,7 +144,7 @@
           "type": "list",
           "description": "text_font_description",
           "label": "text_font_label",
-          "value": "Garamond, 'Hoefler Text', 'Times New Roman', Times, serif",
+          "value": "'Montserrat', sans-serif",
           "options": [
             {
               "label": "System",

@@ -1428,7 +1428,9 @@ ul {
 
 /***** Hero component *****/
 .hero {
-  background-image: url($homepage_background_image);
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url($homepage_background_image);
   background-position: center;
   background-size: cover;
   height: 300px;
